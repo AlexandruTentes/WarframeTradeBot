@@ -1,0 +1,16 @@
+# Config settings
+
+toggleConfigRuntimeRead:	off
+toggleCMD:			off
+
+offerWindowWidth:		320
+offerWindowHeight:		200
+offerRowNO:			5
+offerColumnNO:			6
+notifyOffer:			on
+
+# Warframe Market Items
+
+warframeItems: 			0, 0, mirage_prime_set, saryn_prime_set, ash_prime_set, atlas_prime_set, banshee_prime_set, chroma_prime_set, ember_prime_set, equinox_prime_set, frost_prime_set, gara_prime_set, garuda_prime_set, harrow_prime_set, hydroid_prime_set, inaros_prime_set, ivara_prime_set, limbo_prime_set, loki_prime_set, mag_prime_set, mesa_prime_set, nekros_prime_set, nezha_prime_set, nidus_prime_set, nova_prime_set, nyx_prime_set, oberon_prime_set, octavia_prime_set, rhino_prime_set, titania_prime_set, trinity_prime_set, valkyr_prime_set, vauban_prime_set, volt_prime_set, wukong_prime_set, zephyr_prime_set, neo_n6_relic, astilla_prime_set, baza_prime_set, boar_prime_set, boltor_prime_set, braton_prime_set, burston_prime_set, cernos_prime_set, corinth_prime_set, latron_prime_set, nagantaka_prime_set, panthera_prime_set, rubico_prime_set, soma_prime_set, tigris_prime_set, vectis_prime_set, aksomati_prime_set, pyrana_prime_set, spira_prime_set, vasto_prime_set, ankyros_prime_set, bo_prime_set, dakra_prime_set, dual_kamas_prime_set, fang_prime_set, fragor_prime_set, galatine_prime_set, glaive_prime_set, guandao_prime_set, kronen_prime_set, nami_skyla_prime_set, nikana_prime_set, orthos_prime_set, reaper_prime_set, redeemer_prime_set, scindo_prime_set, carrier_prime_set, odonata_prime_set, arcane_energize, primed_reach, primed_chilling_grasp, primed_charged_shell, primed_bane_of_corpus, primed_bane_of_corrupted, primed_bane_of_grineer, primed_bane_of_infested, primed_animal_instinct, primed_ammo_stock, primed_pressure_point, primed_cleanse_corpus, primed_cleanse_corrupted, primed_cleanse_grineer, primed_expel_corpus, primed_expel_corrupted, primed_expel_grineer, primed_expel_infested, primed_fast_hands, primed_fever_strike, primed_firestorm, primed_flow, primed_fulmination, primed_heated_charge, primed_heavy_trauma, primed_magazine_warp, primed_morphic_transformer, primed_pack_leader, primed_pistol_ammo_mutation, primed_pistol_gambit, primed_point_blank, bronco_prime_set, nikana_prime_hilt
+itemsMinAVG:			0
+itemsMinPlat:			20
