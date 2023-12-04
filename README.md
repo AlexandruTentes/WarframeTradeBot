@@ -2,7 +2,7 @@ Requirements:
 
 - works best with python 3
 - it is made specifically for windows
-- please run the INSTALLER.bat
+- please run the INSTALLER.bat (only works with pip)
 
 Description:
 
