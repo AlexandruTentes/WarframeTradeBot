@@ -9,15 +9,19 @@ for a while, since the market moved prices, these become irrelevant) and finally
 The game uses "Platinum" as its currency.
 
 Configuration with a big list of instruments:
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/57eee438-bd59-4da4-8112-9a3dd8c1e470)
 
 The UI with the instruments active that hit the mark of 20 platinum profit
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/1543dcbc-f343-4d8e-8e41-314e2b152a4b)
 
 A screenshot of the windows notification received when "ash_prime_set" instrument hit a potential profit margin of 25.12 platinum (it also plays the windows notification nosund)
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/4799f743-5e2f-43ee-8cb6-c0df653027cf)
 
 Breakdown of one instrument box:
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/b1627079-b430-435f-a263-b6685cba0f20)
 
 From the top left: primed_bane_of_corrupted instrument top seller registered this item at a 10.48% lower than the Estimate price. Raw potential profit of 24.58 platinum.
@@ -39,6 +43,7 @@ In this example the Estimate price is 234.58 plat and the seller sells at 210.00
 
 Sale min and Sale max is mostly indicative to market direction for the instrument.. it only registeres it while the app is running
 Roughly 10 minutes later I got this picture featuring the same instrument described above:
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/8e043c78-9abf-4705-8ec3-c9a9f30a7695)
 
 sale min is still at 10.48 (as it was initially)
@@ -47,9 +52,11 @@ sale max is now at 19.86 - This indicates that the previous order of 210 plat wa
 Note, sale min and max are all in procentile.
 
 Finally Rank shows that instrument's top seller item rank (if you set to look for a mod and you ser Rank boolean mentioned earlier, the rank of the mod being sold will show up, check the following picture)
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/6c248db7-188e-48fe-a227-db66334c762b)
 
 
 Finally the Status shows if the top seller is ingame or just online on the website
+
 ![image](https://github.com/AlexandruTentes/WarframeTradeBot/assets/35760618/3bf4fbe3-0276-4c54-95b6-ad7114bd1c6f)
 
