@@ -1,3 +1,9 @@
+Requirements:
+
+- works best with python 3
+- it is made specifically for windows
+- please run the INSTALLER.bat
+
 Description:
 
 The app uses Warframe's trade website API to analyze the market for certain items in a list. What this does is to simply get the data for each listing for each item, calculate different types of 
